@@ -105,7 +105,7 @@ APOC_AA_Drops =[
 			["M1239",			 "rhsusf_M1239_socom_d",			55000, "vehicle", 75000]	
 		]
 	],
-	["Armoured MRAPS",
+	["Armed MRAPS",
 		[
 			["BRDM2 HQ",			"Exile_Car_BRDM2_HQ",			      	35000, "vehicle", 100000]
 			["M1277 M2",			"rhsusf_m1240a1_m2crows_usmc_wd",		75000, "vehicle", 100000]

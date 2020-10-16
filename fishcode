@@ -197,7 +197,7 @@ APOC_AA_Drop_Contents =[
 	],
 	["AA_Pack_2",
 		[
-			["wep", ["launch_B_Titan_short_tna_F"], 1],
+			["wep", ["launch_B_Titan_F"], 1],
 			["itm", ["Titan_AA"], 4]
 		]
 	],

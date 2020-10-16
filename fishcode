@@ -183,7 +183,7 @@ APOC_AA_Drop_Contents =[
 	],
 	["AT_Pack_3",
 		[
-			["wep", ["launch_B_Titan_F"], 1],
+			["wep", ["launch_B_Titan_short_F"], 1],
 			["itm", ["Titan_AT"], 4],
 			["itm", ["SatchelCharge_Remote_Mag"], 2],
 			["itm", ["Rangefinder"], 1]
